@@ -1,3 +1,35 @@
-<?php
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 20%;
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.5em;
+        }
+        a {
+            font-size: 1.5em;
+            text-decoration: none;
+            color: rgb(51, 51, 255);
+            padding: 15px;
+            background-color: lightblue;
+            border-radius: 10px;
+        }
+    </style>
+    <title>Ferit</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <a href="https://577270.ictcampus.nl/index.php">Portfolio (Click)</a>
+    <p>I'm hosted with GitHub Pages.</p>
+</body>
 
-echo "helu"
+</html>
